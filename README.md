@@ -59,14 +59,28 @@ willowolf
   - gorge's guardians
     - **most of my focus should be on projects for these people*
 
+
+public sites
+game archive
+  - letterbox'd for games
+  -> media studies playlist sharing
+  -> 8tracks (rip)
+
+classifieds
+  + jobs
+
+anarchist apps
+  - mapping apps
+  - ...too many ideas here, check notebook
+
 games  
 *note to self: forget the traditional style of making video games and stick to making input interfaces to existing games, and modifying existing games, or combining them? who knows! go back to creative frameworks!! The game engine world is a deep deep rabbit hole! :(*
 
   - **battle games** (local multiplayer)
     -> **battle game maker** 
       -> [game-making tool-box](https://github.com/rahil627/haxera)
+        - ugh, no... just wait until the Luxe engine, or Jon Blow's game engine + language
       - **play Dreams (the PS4 game)**
-        - ugh, no... just wait until the Luxe engine, or Dinghy, or try Nez/MonoGame
   - iPad battle 'n party games (local multiplayer)
 
 apps?
